@@ -72,7 +72,7 @@ export default function Home() {
                 <p>Learn how to protect systems and networks from cyber threats.</p>
                 <a href="#">Learn More</a>
             </div>
-        </div>
+        </div>npm start
     </section>
     {/* next div */}
 
